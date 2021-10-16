@@ -24,7 +24,7 @@
 		</div>
 		<div class="nav-links">
 			<a
-				href="https://www.github.com/ankitkhatriofficial/AuthenticationManager"
+				href="https://www.github.com/ankitkhatriofficial/SpringAuthentication"
 				target="_blank">Source Code</a> <a
 				href="https://www.linkedin.com/in/ankitkhatriofficial"
 				target="_blank">LinkedIn</a> <a
